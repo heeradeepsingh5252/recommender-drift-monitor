@@ -122,3 +122,16 @@ The Population Stability Index is used as a heuristic indicator. The default thr
 ## License
 
 MIT. See [LICENSE](LICENSE).
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/dashboard-overview.png)
+
+### Personalized Recommendations
+![Recommendations](docs/screenshots/recommendations.png)
+
+### Drift Detection
+![Drift Detected](docs/screenshots/drift-detected.png)
+
+### Reset to Normal
+![Stable State](docs/screenshots/drift-reset.png)
