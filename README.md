@@ -122,6 +122,7 @@ The Population Stability Index is used as a heuristic indicator. The default thr
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
 ## Screenshots
 
 ### Dashboard Overview
@@ -135,3 +136,4 @@ MIT. See [LICENSE](LICENSE).
 
 ### Reset to Normal
 ![Stable State](docs/screenshots/drift-reset.png)
+
