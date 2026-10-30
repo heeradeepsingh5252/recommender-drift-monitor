@@ -4,6 +4,16 @@ An end-to-end machine-learning engineering portfolio project that combines an it
 
 > **Demo data notice:** All users, items, ratings, and timestamps are generated synthetic data. This project is a technical demonstration, not a production recommender or a validated alerting system.
 
+## Live Demo
+
+- **Interactive Streamlit dashboard:** https://recommender-drift-monitor-kfzgmsbytzkiuqsr2vuqyb.streamlit.app
+- **FastAPI backend:** https://recommender-drift-monitor.onrender.com
+- **API documentation:** https://recommender-drift-monitor.onrender.com/docs
+- **Health check:** https://recommender-drift-monitor.onrender.com/health
+
+The dashboard uses synthetic demonstration data. Render's free backend
+may take a short time to wake after inactivity.
+
 ## Features
 
 - Item-item collaborative filtering with cosine similarity over a user-item rating matrix.
